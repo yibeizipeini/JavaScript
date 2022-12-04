@@ -1,6 +1,3 @@
-// Variables used by Scriptable.
-// These must be at the very top of the file. Do not edit.
-// icon-color: green; icon-glyph: magic;
 var url = $request.url;
 
 const myStatus = "HTTP/1.1 200 OK";
