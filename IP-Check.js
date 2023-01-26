@@ -1,6 +1,3 @@
-// Variables used by Scriptable.
-// These must be at the very top of the file. Do not edit.
-// icon-color: pink; icon-glyph: magic;
 let url = "http://ip-api.com/json"
 
 $httpClient.get(url, function(error, response, data){
