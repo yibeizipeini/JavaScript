@@ -1,3 +1,6 @@
+/**
+ * 网络信息面板
+ */
 const $ = API("NetInfoPanel", true);
 const $http = HTTP();
 
